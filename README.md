@@ -1,4 +1,4 @@
-# bootstrap-textarea
+# Bootstrap Textarea
 
 Responsive textarea built with Bootstrap 5. How to change size, height, width and style. Examples of comments, contact form, checkout and chat.
 
